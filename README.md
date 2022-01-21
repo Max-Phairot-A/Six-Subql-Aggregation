@@ -137,7 +137,7 @@ query{
 }
 
 ```
-### The output produced by running of the query from the 2rd example
+### The output produced by running of the query from the 3rd example
 ![alt text](Result3.png)
 
 
