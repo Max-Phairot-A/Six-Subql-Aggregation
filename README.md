@@ -115,8 +115,8 @@ query{
           nodes{
 		balance 
           }
-	  } 
-    	}
+       } 
+    }
   } 
 }
 ```
@@ -132,7 +132,7 @@ query{
       blockheight
       id
       totalReward
-	}
+     }
   }
 }
 
